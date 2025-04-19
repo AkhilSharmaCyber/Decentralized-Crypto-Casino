@@ -60,7 +60,7 @@ To connect react with Smart Contracts I used the ethers.js library. With this li
 
 ## Deployed Version[![](./docs/img/pin.svg)](#deployed-version)
 
-If you want to test the deployed casino just go to https://crypto-casino-chi.vercel.app and open the Metamask wallet with an account from the polygon testnet, if you don't know how to do it you can follow this [tutorial](https://docs.unstoppabledomains.com/manage-domains/guides/add-polygon-to-metamask/).
+If you want to test the deployed casino just go to https://crypto-casino-chi.vercel.app and open the Metamask wallet with an account from the polygon testnet.
 
 After that you have to click on the red button to connect the website to your wallet and you will be able to test all the functionalities offered by the application.
 
@@ -69,7 +69,7 @@ After that you have to click on the red button to connect the website to your wa
 If you want to install the casino to modify it is very easy, you just have to clone this repository, you can do it using the IDE or using the console with the command:
 
 ```shell
-git clone https://github.com/BraisCabo/CriptoCasino
+git clone https://github.com/AkhilSharmaCyber/Decentralized-Crypto-Casino.git
 ```
 
 After that, you just have to open in the console the address where you just cloned the project and execute the command:
